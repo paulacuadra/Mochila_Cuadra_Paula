@@ -1,0 +1,7 @@
+-Por qué un lenguaje de programación solo puede utilizarse en algunos sistenas operativos y en otros no?
+RESPUESTA: Algunos lenguajes estan diseñados específicamente para determinados S.0.
+por lo tanto podría no ser compatible con otros compiladores o interpretes.
+"-Qué tipo de máquina virtual es virtualBox?
+RESPUESTA: Es un softuare de virtualización, es capaz de cargar otro sistema operatiup en su interior, simulando ser un PC real.
+-Si tengo más de una máquina virtual instalada, y una se rompe, esto afecta al resto?
+RESPUESTA: No afecta si una se rompe ya que son independientes unas de otras.
