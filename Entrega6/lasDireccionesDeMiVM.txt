@@ -1,0 +1,12 @@
+MAC:
+HWaddr 08:00:27:1c:08:c0
+
+ip privada:
+inet addr:10.0.2.15
+
+Es de clase A, en cambio la del host es de clase C. la publica es la isma que 
+el host.
+
+
+
+
